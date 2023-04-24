@@ -52,3 +52,22 @@ comment: |-
 icjotLkBh9PTuzmPN38-_KyMTFs3LIndTyzHYg1CosK_kwklfayPa3OL5uxMMW4R_ffDgWkKu2F_Djfj8F4iAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-04-24T12:20:05.177739566+02:00
+from:
+  id-type: crev
+  id: M3ewNhZi5hwcn9yMHgs0CQmbrEsIOf0j0sNJhkodFJ8
+  url: https://github.com/dunxen/crev-proofs
+ids:
+- id-type: crev
+  id: Df2R3MuKZTrPtFwmRvCfArOTY2E3IlKBJEEXqk_YMvY
+  url: https://github.com/tcharding/crev-proofs
+trust: high
+comment: |-
+  Reputable member of the rust-bitcoin ecosystem
+----- SIGN CREV PROOF -----
+iiG5UzAziH2B_IczL6unjto5jX8P_HDXDwYaWEoChcPoE7z1CmRjTp3zm3uL_WbhjE_EA47x5qZXDc5-5Zo0Cg
+----- END CREV PROOF -----
+
